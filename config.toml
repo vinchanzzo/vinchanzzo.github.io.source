@@ -1,0 +1,6 @@
+languageCode = "en-us"
+title = "Snippets"
+baseURL = "http://example.org/"
+
+[Params]
+  Author = "chanv"
