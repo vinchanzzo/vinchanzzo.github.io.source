@@ -1,5 +1,5 @@
 +++
-title = "good to great"
+title = "first post"
 draft = false
 date = "2017-03-17T19:13:43-08:00"
 

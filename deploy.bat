@@ -10,4 +10,5 @@ set /p commitMsg= Enter a commit message for the OUTPUT:
 git add --all
 git commit -m "%commitMsg%"
 git push -f origin master
+cd..
 echo "Done!"
