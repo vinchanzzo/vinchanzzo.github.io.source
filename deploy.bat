@@ -1,6 +1,7 @@
+@echo off
 echo "Generating site..."
 hugo --theme=paperback
-set /p commitMsg= Enter a commit message for the SOURCE: 
+set /p commitMsg= Enter a commit message for the SOURCE:
 echo "Committing source..."
 git add --all
 git commit -m "%commitMsg%"
