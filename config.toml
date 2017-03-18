@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Snippets"
-baseURL = "https://vinchanzzo.github.io"
+baseURL = "https://vinchanzzo.github.io/"
 
 [Params]
   Author = "chanv"
