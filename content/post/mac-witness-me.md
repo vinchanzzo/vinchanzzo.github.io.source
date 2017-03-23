@@ -1,12 +1,18 @@
 +++
 date = "2017-03-17T21:33:48-08:00"
-title = "MacBook: \"Witness Me!\""
+title = "macbook: \"witness me!\""
 draft = true
-
+tags = [ "mac","chrome","chromeos","chromium" ]
 +++
 
-Earlier this week, I uncovered and dusted off my White Macbook purchased back in 2007. It's really an amazingly built machine - still booted up like a champ 10 years later.
+Earlier this week I dusted off my Macbook I purchased back in 2007 (Macbook 2,1). It's really an amazingly machine - still booted up like a champ 10 years later.  
 
-On the other hand, the software is evidently drawing its last breath. It was running OS X Lion 10.7, more than a few years old at this point. The hardware is still more than enough perform basic tasks - however, the OS was so outdated that most modern websites simply do not work anymore.
+On the other hand, the software is evidently drawing its last breath. OS X Lion 10.7 few years old at this point. The hardware is still more than enough perform basic tasks, so I set out to find out what I could do with it.  
 
-At this point I have a couple of options - I can either junk the machine, or attempt to breath new life into it by upgrading the OS. With this machine, OS X 10.8 is the latest version it supports - not good enough given this version is quite old itself.
+Then I came across [CloudReady](https://www.neverware.com) - built on Chromium, an open-source variant of ChromeOS built by Neverware. Setup was very easy - the bulk of the work is creating a bootable USB stick, which is used to start up a "live" version of CloudReady which you can then install from.  
+
+So far I've fairly happy with the results - for light web-browsing and Netflix, it's a perfect device. Definitely saves the old machine from certain fate.  
+
+More on this later...  
+
+  
