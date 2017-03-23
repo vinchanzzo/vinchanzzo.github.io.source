@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Snippets</title>
-    <link>https://vinchanzzo.github.io/post/index.xml</link>
-    <description>Recent content in Posts on Snippets</description>
+    <title>Chrome on Snippets</title>
+    <link>https://vinchanzzo.github.io/tags/chrome/index.xml</link>
+    <description>Recent content in Chrome on Snippets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2017 21:33:48 -0800</lastBuildDate>
-    <atom:link href="https://vinchanzzo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vinchanzzo.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>macbook: &#34;witness me!&#34;</title>
@@ -24,16 +23,6 @@
 &lt;p&gt;So far I&amp;rsquo;ve fairly happy with the results - for light web-browsing and Netflix, it&amp;rsquo;s a perfect device. Definitely saves the old machine from certain fate.&lt;/p&gt;
 
 &lt;p&gt;More on this later&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>first post</title>
-      <link>https://vinchanzzo.github.io/post/good-to-great/</link>
-      <pubDate>Fri, 17 Mar 2017 19:13:43 -0800</pubDate>
-      
-      <guid>https://vinchanzzo.github.io/post/good-to-great/</guid>
-      <description>&lt;p&gt;I bought &amp;ldquo;The Martian&amp;rdquo; on Kindle. I didn&amp;rsquo;t finish reading it. I also bought some Tim Horton&amp;rsquo;s Dark Roast coffee. It sucks less than the original.&lt;/p&gt;
 </description>
     </item>
     

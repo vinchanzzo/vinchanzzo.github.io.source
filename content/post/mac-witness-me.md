@@ -1,7 +1,7 @@
 +++
 date = "2017-03-17T21:33:48-08:00"
 title = "macbook: \"witness me!\""
-draft = true
+draft = false
 tags = [ "mac","chrome","chromeos","chromium" ]
 +++
 
@@ -14,5 +14,3 @@ Then I came across [CloudReady](https://www.neverware.com) - built on Chromium, 
 So far I've fairly happy with the results - for light web-browsing and Netflix, it's a perfect device. Definitely saves the old machine from certain fate.  
 
 More on this later...  
-
-  
