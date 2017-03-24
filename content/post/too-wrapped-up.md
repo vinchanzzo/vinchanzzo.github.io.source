@@ -1,7 +1,7 @@
 +++
 date = "2017-03-24T09:55:21-07:00"
 title = "too wrapped up"
-draft = true
+draft = false
 tags = [ "shopping", "amazon" ]
 +++
 
