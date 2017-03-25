@@ -2,7 +2,7 @@
 echo
 echo
 echo Generating site...
-hugo --theme=paperback
+hugo --theme=black-and-light
 set /p commitMsg= Enter a commit message for the SOURCE:
 echo
 echo
