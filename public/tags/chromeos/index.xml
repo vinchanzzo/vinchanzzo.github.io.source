@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chromeos on Snippets</title>
+    <title>Chromeos on snippets</title>
     <link>https://vinchanzzo.github.io/tags/chromeos/index.xml</link>
-    <description>Recent content in Chromeos on Snippets</description>
+    <description>Recent content in Chromeos on snippets</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <atom:link href="https://vinchanzzo.github.io/tags/chromeos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -18,14 +18,15 @@
 
 &lt;p&gt;On the other hand, the software is evidently drawing its last breath. OS X Lion 10.7 few years old at this point. The hardware is still more than enough perform basic tasks, so I set out to find out what I could do with it.&lt;/p&gt;
 
+&lt;p&gt;&lt;/p&gt;
+
 &lt;p&gt;Then I came across &lt;a href=&#34;https://www.neverware.com&#34;&gt;CloudReady&lt;/a&gt; - built on &lt;a href=&#34;https://www.chromium.org/chromium-os&#34;&gt;ChromiumOS&lt;/a&gt;, an open-source variant of OS that powers &lt;a href=&#34;https://www.google.com/chromebook/&#34;&gt;ChromeBook&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Setup was very easy - the bulk of the work is creating a bootable USB stick, which is used to start up a &amp;ldquo;live&amp;rdquo; version of CloudReady which you can then install from.&lt;/p&gt;
 
 &lt;p&gt;So far I&amp;rsquo;ve fairly happy with the results - for light web-browsing and Netflix, it&amp;rsquo;s a perfect device. Definitely saves the old machine from certain fate.&lt;/p&gt;
 
-&lt;p&gt;More on this later&amp;hellip;&lt;/p&gt;
-</description>
+&lt;p&gt;More on this later&amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Snippets</title>
+    <title>snippets</title>
     <link>https://vinchanzzo.github.io/index.xml</link>
-    <description>Recent content on Snippets</description>
+    <description>Recent content on snippets</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 Mar 2017 09:55:21 -0700</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Mar 2017 12:11:17 -0700</lastBuildDate>
     <atom:link href="https://vinchanzzo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>movie posters deja vu?</title>
+      <link>https://vinchanzzo.github.io/post/movie-posters-deja-vu/</link>
+      <pubDate>Sat, 25 Mar 2017 12:11:17 -0700</pubDate>
+      
+      <guid>https://vinchanzzo.github.io/post/movie-posters-deja-vu/</guid>
+      <description>&lt;p&gt;Have you ever looked at an movie poster of an up-and-coming film and wondered, &amp;ldquo;Where have I seen this before?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Well, apparently you&amp;rsquo;re not alone - there are recurring themes and more so than you think. From a &lt;a href=&#34;https://www.reddit.com/r/movies/comments/61die4/new_pirates_of_the_caribbean_poster/dfdy1zo/&#34;&gt;post on reddit&lt;/a&gt; by user pantsfish, here are some recognizable motifs:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.thewrap.com/neighbors-2-and-the-staredown-movie-poster-cliche-photos/413/?mode=3&#34;&gt;The Staredown&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://static.boredpanda.com/blog/wp-content/uuuploads/movie-poster-cliches/movie-poster-cliches-4.jpg&#34;&gt;Under-the-Legs Comedy Shot&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://i.imgur.com/NmUAasS.jpg&#34;&gt;Will they or won&amp;rsquo;t they&amp;hellip;?&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://i.imgur.com/lkxuJJr.jpg&#34;&gt;Blinded by Justice!&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://flavorwire.files.wordpress.com/2011/11/11.jpeg?w=1920&#34;&gt;&amp;ldquo;Notice Me Plz&amp;rdquo; Indies&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://i.imgur.com/NJtNITq.jpg&#34;&gt;The Eyeball&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&#34;https://www.reddit.com/r/movies/comments/61die4/new_pirates_of_the_caribbean_poster/dfdy1zo/&#34;&gt;source post&lt;/a&gt; for more.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>too wrapped up</title>
@@ -19,12 +41,15 @@
 
 &lt;p&gt;It really changed the way I shopped - the one / two-day shopping is fantastic. At one point in time, I was a subscriber to both Amazon Prime Canada and Amazon Prime US, just to get access to the market place across the border (unfortunately the Canadian selection is just not up to par).&lt;/p&gt;
 
-&lt;p&gt;This convenience and new way of shopping really creates an interesting problem - the excess of packaging. It is common to have make an order consisting of multiple items, but shipped to you in different packaging and boxes - I suppose logistically the items come from different warehouses, so as an effort to ship it faster, they were sent in its own packaging.&lt;/p&gt;
+&lt;p&gt;This convenience and new way of shopping really creates an interesting problem - the excess of packaging.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;It is common to have an single order made up of multiple items, but shipped to you in separate packages - my guess is logistically the items come from different warehouses, so as an effort to ship it faster, they were sent in its own packaging.&lt;/p&gt;
 
 &lt;p&gt;The result is a rapidly-filled recycling and trash bin, with things like bubble wraps, air packets etc, going into the latter. Not something I&amp;rsquo;m very proud of.&lt;/p&gt;
 
-&lt;p&gt;I would love it if there is some creative solution to this - perhaps an option for an &amp;ldquo;eco-friendly&amp;rdquo; shipping where items are consolidated into one lean, smart packaging, but at an expense of slower shipping time? Not sure if many consumers would go for that, but I would do it for orders that makes sense.&lt;/p&gt;
-</description>
+&lt;p&gt;I would love it if there is some creative solution to this - perhaps an option for an &amp;ldquo;eco-friendly&amp;rdquo; shipping where items are consolidated into one lean, smart packaging, but at an expense of slower shipping time? Not sure if many consumers would go for that, but I would do it for orders that makes sense.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -37,14 +62,15 @@
 
 &lt;p&gt;On the other hand, the software is evidently drawing its last breath. OS X Lion 10.7 few years old at this point. The hardware is still more than enough perform basic tasks, so I set out to find out what I could do with it.&lt;/p&gt;
 
+&lt;p&gt;&lt;/p&gt;
+
 &lt;p&gt;Then I came across &lt;a href=&#34;https://www.neverware.com&#34;&gt;CloudReady&lt;/a&gt; - built on &lt;a href=&#34;https://www.chromium.org/chromium-os&#34;&gt;ChromiumOS&lt;/a&gt;, an open-source variant of OS that powers &lt;a href=&#34;https://www.google.com/chromebook/&#34;&gt;ChromeBook&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Setup was very easy - the bulk of the work is creating a bootable USB stick, which is used to start up a &amp;ldquo;live&amp;rdquo; version of CloudReady which you can then install from.&lt;/p&gt;
 
 &lt;p&gt;So far I&amp;rsquo;ve fairly happy with the results - for light web-browsing and Netflix, it&amp;rsquo;s a perfect device. Definitely saves the old machine from certain fate.&lt;/p&gt;
 
-&lt;p&gt;More on this later&amp;hellip;&lt;/p&gt;
-</description>
+&lt;p&gt;More on this later&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>

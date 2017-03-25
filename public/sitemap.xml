@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vinchanzzo.github.io/post/movie-posters-deja-vu/</loc>
+    <lastmod>2017-03-25T12:11:17-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vinchanzzo.github.io/post/too-wrapped-up/</loc>
     <lastmod>2017-03-24T09:55:21-07:00</lastmod>
   </url>
@@ -41,14 +46,38 @@
   </url>
   
   <url>
+    <loc>https://vinchanzzo.github.io/tags/cinema/</loc>
+    <lastmod>2017-03-25T12:11:17-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vinchanzzo.github.io/tags/design/</loc>
+    <lastmod>2017-03-25T12:11:17-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vinchanzzo.github.io/tags/films/</loc>
+    <lastmod>2017-03-25T12:11:17-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vinchanzzo.github.io/tags/mac/</loc>
     <lastmod>2017-03-17T21:33:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://vinchanzzo.github.io/tags/movies/</loc>
+    <lastmod>2017-03-25T12:11:17-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vinchanzzo.github.io/post/</loc>
-    <lastmod>2017-03-24T09:55:21-07:00</lastmod>
+    <lastmod>2017-03-25T12:11:17-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,13 +88,13 @@
   </url>
   
   <url>
-    <loc>https://vinchanzzo.github.io/</loc>
-    <lastmod>2017-03-24T09:55:21-07:00</lastmod>
+    <loc>https://vinchanzzo.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vinchanzzo.github.io/tags/</loc>
+    <loc>https://vinchanzzo.github.io/</loc>
+    <lastmod>2017-03-25T12:11:17-07:00</lastmod>
     <priority>0</priority>
   </url>
   

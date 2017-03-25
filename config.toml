@@ -1,6 +1,16 @@
-languageCode = "en-us"
-title = "Snippets"
-baseURL = "https://vinchanzzo.github.io/"
+baseurl = "https://vinchanzzo.github.io/"
+author = "chanv"
+title = "snippets"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
 
-[Params]
-  Author = "chanv"
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+#  sitename = "snippets"
+
+[[menu.main]]
+    name = "snippets"
+    url  = "/"
