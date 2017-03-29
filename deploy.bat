@@ -9,7 +9,7 @@ echo
 echo Committing source...
 git add --all
 git commit -m "%commitMsg%"
-git push -f origin source
+git push -f origin master
 cd public
 echo
 echo
