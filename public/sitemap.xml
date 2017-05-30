@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vinchanzzo.github.io/post/american-gods/</loc>
+    <lastmod>2017-05-29T22:15:36-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vinchanzzo.github.io/post/movie-posters-deja-vu/</loc>
     <lastmod>2017-03-25T12:11:17-07:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   
   <url>
     <loc>https://vinchanzzo.github.io/tags/amazon/</loc>
-    <lastmod>2017-03-24T09:55:21-07:00</lastmod>
+    <lastmod>2017-05-29T22:15:36-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -77,7 +82,7 @@
   
   <url>
     <loc>https://vinchanzzo.github.io/post/</loc>
-    <lastmod>2017-03-25T12:11:17-07:00</lastmod>
+    <lastmod>2017-05-29T22:15:36-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,8 +98,14 @@
   </url>
   
   <url>
+    <loc>https://vinchanzzo.github.io/tags/television/</loc>
+    <lastmod>2017-05-29T22:15:36-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vinchanzzo.github.io/</loc>
-    <lastmod>2017-03-25T12:11:17-07:00</lastmod>
+    <lastmod>2017-05-29T22:15:36-07:00</lastmod>
     <priority>0</priority>
   </url>
   
