@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ebooks on snippets</title>
+    <link>https://vinchanzzo.github.io/tags/ebooks/</link>
+    <description>Recent content in Ebooks on snippets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vinchanzzo.github.io/tags/ebooks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>digital books goodness</title>
+      <link>https://vinchanzzo.github.io/posts/digital-books-goodness/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vinchanzzo.github.io/posts/digital-books-goodness/</guid>
+      <description>&lt;p&gt;Even though modern technology has made digital storage a commodity and accessible to nearly everybody, I still find it mind-boggling to comprehend the amount of information that could be stored digitally.&lt;/p&gt;
+
+&lt;p&gt;With the storage space we have nowadays, one could easily host a electronic world of books and literature and not be able to go through them all in a lifetime. In a way, this drove my fascination and slight obsession in collecting ebooks.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
