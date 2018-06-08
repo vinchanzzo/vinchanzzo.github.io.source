@@ -17,4 +17,10 @@ Setup was very easy - the bulk of the work is creating a bootable USB stick, whi
 
 So far I've fairly happy with the results - for light web-browsing and Netflix, it's a perfect device. Definitely saves the old machine from certain fate.  
 
-More on this later...  
+__Update 2018/06/07__
+
+After running cheerfully for a few days,  unfortunately the machine died and refused to boot up.
+
+My speculation was that the fan eventually failed, causing the logic board to burn out. CloudReady might have a part in this since the fan speed needed to be set manually, and it was running constantly - but I don't know for sure beyond feeling a sneaking suspicion.
+
+Off to the recycling depot the Macbook went...
