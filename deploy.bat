@@ -3,7 +3,7 @@ echo
 echo
 echo Generating site...
 hugo --theme=black-and-light
-set /p commitMsg= Enter a commit message for the SOURCE:
+set /p commitMsg= Enter a commit message for the SOURCE: 
 echo
 echo
 echo Committing source...
